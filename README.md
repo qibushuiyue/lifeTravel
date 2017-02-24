@@ -1,2 +1,2 @@
 # lifeTravel
-a tool to record some important memery in our life.
+a tool to record some important memory in our life.
